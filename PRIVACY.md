@@ -1,6 +1,8 @@
 # Politique de confidentialité — MyDropMusic
 
-Dernière mise à jour : 30 septembre 2026
+[English](PRIVACY_EN.md)
+
+Dernière mise à jour : 1er octobre 2026
 
 Cette politique concerne MyDropMusic sur iPhone et son compagnon MyDropMusic Sync pour Windows, dans leurs versions actuelles.
 
