@@ -1,59 +1,23 @@
-# MyDropMusic Sync pour Windows / for Windows
+# MyDropMusic Sync — Windows
 
-[Français](#français) · [English](#english)
+[Français / English — Télécharger la dernière version / Download the latest release](https://github.com/carolinerancourt79-maker/MyDropMusic-Downloads/releases/latest)
 
 ## Français
 
-Le compagnon Windows permet de transférer vos fichiers musicaux vers MyDropMusic sur iPhone par Wi-Fi.
+Dans Assets, choisissez l’installateur **MyDropMusicSync_Setup_…exe**. Fermez l’ancien compagnon et installez la mise à jour par-dessus. Votre dossier et votre jumelage restent conservés. Python n’est pas nécessaire.
 
-### Téléchargement — version de test
+Ouvrez le compagnon, choisissez votre dossier et connectez les deux appareils au même Wi-Fi. Sur iPhone : **Synchroniser avec le PC → Scanner le QR du PC**. Gardez le compagnon ouvert pendant le transfert.
 
-[Télécharger MyDropMusic Sync Windows 6.22.11](https://github.com/carolinerancourt79-maker/MyDropMusic-Downloads/releases/tag/v6.22.11-test)
+Le compagnon utilise HTTPS. Smart Sync transfère les fichiers manquants ou modifiés; une suppression sur le PC ne supprime pas automatiquement la copie iPhone. Aucun fichier musical n’est inclus. L’installateur est non signé.
 
-Dans **Assets**, choisissez **MyDropMusicSync_Setup_6_22_11.exe**. Les archives « Source code » ne sont pas nécessaires pour l'installation.
-
-La version actuellement publiée du compagnon utilise une interface française. Une version français/anglais est en préparation et sera proposée après validation.
-
-### Installation et synchronisation
-
-1. Téléchargez et lancez l'installateur sur votre PC Windows.
-2. Ouvrez **MyDropMusic Sync** et choisissez votre dossier de musique.
-3. Connectez le PC et l'iPhone au même réseau Wi-Fi.
-4. Dans MyDropMusic sur l'iPhone, ouvrez **Smart Sync**, puis scannez le QR du PC.
-5. Gardez le compagnon ouvert pendant le transfert.
-
-Smart Sync transfère les chansons manquantes ou modifiées, sans recopier celles déjà à jour. Les transferts utilisent HTTPS. Une suppression sur le PC ne supprime pas automatiquement la copie sur l'iPhone.
-
-Cette version nécessite MyDropMusic 6.22.11 ou une version compatible ultérieure sur iPhone. L'application iPhone n'est pas distribuée dans ce dépôt.
-
-L'installateur Windows n'est pas signé numériquement : Windows peut afficher un avertissement. Téléchargez-le uniquement depuis ce dépôt officiel.
-
-[Politique de confidentialité](PRIVACY.md) · [Soutien](SUPPORT.md)
+[Confidentialité](PRIVACY.md) · [Soutien](SUPPORT.md)
 
 ## English
 
-The Windows companion transfers your music files to MyDropMusic on iPhone over Wi-Fi.
+Under Assets, choose **MyDropMusicSync_Setup_…exe**. Close the old companion and install the update over it. Your music folder and pairing are retained. Python is not required.
 
-### Download — test version
+Open the companion, choose your music folder and connect both devices to the same Wi-Fi. On iPhone: **Sync with PC → Scan PC QR**. Keep the companion open during transfers.
 
-[Download MyDropMusic Sync Windows 6.22.11](https://github.com/carolinerancourt79-maker/MyDropMusic-Downloads/releases/tag/v6.22.11-test)
+Transfers use HTTPS. Smart Sync transfers missing or changed files; deleting a file on PC does not automatically delete its iPhone copy. No music files are included. The installer is unsigned.
 
-Under **Assets**, choose **MyDropMusicSync_Setup_6_22_11.exe**. You do not need the “Source code” archives to install the companion.
-
-The currently published companion has a French interface. A French/English version is being prepared and will be offered after testing.
-
-### Install and synchronize
-
-1. Download and run the installer on your Windows PC.
-2. Open **MyDropMusic Sync** and select your music folder. **Choisir…** means **Choose…**.
-3. Connect the PC and iPhone to the same Wi-Fi network.
-4. In MyDropMusic on iPhone, open **Smart Sync** and scan the PC QR code.
-5. Keep the companion open during transfers.
-
-Smart Sync transfers missing or changed songs without downloading up-to-date files again. Transfers use HTTPS. Deleting a song on the PC does not automatically delete its copy on the iPhone.
-
-This version requires MyDropMusic 6.22.11 or a later compatible version on iPhone. The iPhone app is not distributed in this repository.
-
-The Windows installer is unsigned, so Windows may display a warning. Download it only from this official repository.
-
-[Privacy policy](PRIVACY_EN.md) · [Support](SUPPORT.md)
+[Privacy](PRIVACY_EN.md) · [Support](SUPPORT.md)
